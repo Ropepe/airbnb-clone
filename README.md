@@ -53,6 +53,7 @@ cd airbnb-clone
 npm install
 
 
+
 ### 3. Set up environment variables
 
 Create a `.env.local` file in the project root directory and add the following environment variables:
@@ -62,11 +63,13 @@ DATABASE_URL=your_mongodb_url
 NEXTAUTH_SECRET="NEXTAUTH_SECRET"
 
 
+
 ### 4. Run the development server
 
 Start the development server using:
 
 npm run dev
+
 
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the project running.
