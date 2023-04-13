@@ -58,6 +58,7 @@ npm install
 Create a `.env.local` file in the project root directory and add the following environment variables:
 
 DATABASE_URL=your_mongodb_url
+
 NEXTAUTH_SECRET="NEXTAUTH_SECRET"
 
 
