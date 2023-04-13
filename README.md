@@ -1,6 +1,6 @@
-# Airbnb Clone with Next.js 13, Next-Auth, Prisma with MongoDB and Tailwind CSS
+# Airbnb Clone with Next.js 13, Typescript, Next-Auth, Prisma with MongoDB and Tailwind CSS
 
-Hi, my name is Perica Vrhovac, and this is my Airbnb clone project, built with Next.js, Next-Auth, Prisma with MongoDB, and Tailwind CSS.
+Hi, my name is Perica Vrhovac, and this is my Airbnb clone project, built with Next.js, Typescript, Next-Auth, Prisma with MongoDB, and Tailwind CSS.
 
 The purpose of this project is to showcase my skills as a frontend developer using Next.js and React.js, as well as my proficiency in using Next-Auth for authentication, Prisma with MongoDB for database management, and Tailwind CSS for styling.
 
@@ -20,6 +20,7 @@ You can see the live demo of this project at [https://airbnb-clone-perica-vrhova
 ## Technologies Used
 
 - Next.js 13 - React framework for server-side rendering and static site generation
+- Typescript 
 - Next-Auth - Authentication library for Next.js
 - Prisma with MongoDB - ORM for database management
 - Tailwind CSS - Utility-first CSS framework
